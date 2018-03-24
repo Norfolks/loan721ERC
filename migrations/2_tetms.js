@@ -1,5 +1,5 @@
-var Term = artifacts.require("./Term.sol");
+var LoanToken = artifacts.require("./LoanToken.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(Term);
+  deployer.deploy(LoanToken);
 };

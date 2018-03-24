@@ -1,0 +1,97 @@
+{
+  "contractName": "A",
+  "abi": [],
+  "bytecode": "0x60606040523415600e57600080fd5b603580601b6000396000f3006060604052600080fd00a165627a7a72305820e21eaa2354eab43933f1d63219148838c649ff4ad5cf0cc7bdb613cfcd36bc2b0029",
+  "deployedBytecode": "0x6060604052600080fd00a165627a7a72305820e21eaa2354eab43933f1d63219148838c649ff4ad5cf0cc7bdb613cfcd36bc2b0029",
+  "sourceMap": "26:13:10:-;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "26:13:10:-;;;;;",
+  "source": "pragma solidity ^0.4.18;\n\ncontract A {}",
+  "sourcePath": "/home/nick/Projects/loan721ERC/contracts/Migrations.sol",
+  "ast": {
+    "absolutePath": "/home/nick/Projects/loan721ERC/contracts/Migrations.sol",
+    "exportedSymbols": {
+      "A": [
+        1830
+      ]
+    },
+    "id": 1831,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1829,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".18"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:10"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 1830,
+        "linearizedBaseContracts": [
+          1830
+        ],
+        "name": "A",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 1831,
+        "src": "26:13:10"
+      }
+    ],
+    "src": "0:39:10"
+  },
+  "legacyAST": {
+    "absolutePath": "/home/nick/Projects/loan721ERC/contracts/Migrations.sol",
+    "exportedSymbols": {
+      "A": [
+        1830
+      ]
+    },
+    "id": 1831,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1829,
+        "literals": [
+          "solidity",
+          "^",
+          "0.4",
+          ".18"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:24:10"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 1830,
+        "linearizedBaseContracts": [
+          1830
+        ],
+        "name": "A",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 1831,
+        "src": "26:13:10"
+      }
+    ],
+    "src": "0:39:10"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.4.19+commit.c4cbbb05.Emscripten.clang"
+  },
+  "networks": {},
+  "schemaVersion": "2.0.0",
+  "updatedAt": "2018-03-24T18:47:48.050Z"
+}
